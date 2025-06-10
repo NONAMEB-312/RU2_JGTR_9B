@@ -3,3 +3,6 @@ primer parrafo desde a3-main
 1er parrafo desde a3-user1
 2do parrafo desde a3-user1
 3er parrafo desde a3-user1
+1er parrafo desde a3-user3
+1er parrafo desde a3-user2  
+2do parrafo desde a3-user2
